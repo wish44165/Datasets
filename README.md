@@ -26,3 +26,15 @@
 ### Image Segmentation Datasets
 
 - [Inria Aerial Image Labeling Dataset](https://project.inria.fr/aerialimagelabeling/)
+
+
+## Detectors
+
+- [yolov5](https://github.com/ultralytics/yolov5), [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX), [yolov7](https://github.com/WongKinYiu/yolov7), [yolov8](https://github.com/ultralytics/ultralytics)
+- [Mask R-CNN](https://github.com/open-mmlab/mmdetection/tree/master/configs/mask_rcnn)
+    - [mask_rcnn_r50_caffe_fpn_mstrain-poly_1x_coco.py](https://github.com/open-mmlab/mmdetection/blob/master/configs/mask_rcnn/mask_rcnn_r50_caffe_fpn_mstrain-poly_1x_coco.py)
+- [Deformable DETR](https://github.com/open-mmlab/mmdetection/tree/master/configs/deformable_detr)
+    - [deformable_detr_twostage_refine_r50_16x2_50e_coco.py](https://github.com/open-mmlab/mmdetection/blob/master/configs/deformable_detr/deformable_detr_twostage_refine_r50_16x2_50e_coco.py)
+- [AutoAssign](https://github.com/open-mmlab/mmdetection/tree/master/configs/autoassign)
+    - [autoassign_r50_fpn_8x2_1x_coco.py](https://github.com/open-mmlab/mmdetection/blob/master/configs/autoassign/autoassign_r50_fpn_8x2_1x_coco.py)
+- [FCOS](https://github.com/open-mmlab/mmdetection/tree/master/configs/fcos)
