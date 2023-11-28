@@ -10,6 +10,7 @@
 - [TODbox (Tiny Object Detection Box)](https://github.com/Chasel-Tsui/mmdet-aitod) ([AI-TOD](https://github.com/jwwangchn/AI-TOD) & [AI-TOD-v2](https://drive.google.com/drive/folders/1Er14atDO1cBraBD4DSFODZV1x7NHO_PY))
 - [A Large-Scale Benchmark and Challenges for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/index.html)
 - [A dataset for infrared time-sensitive target detection and tracking for air-ground application](https://www.scidb.cn/en/detail?dataSetId=de971a1898774dc5921b68793817916e)
+- [car_bus_truck_Detection Computer Vision Project](https://universe.roboflow.com/cardetection-cpd1v/car_bus_truck_detection)
 
 </details>
 
