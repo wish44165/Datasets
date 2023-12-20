@@ -17,6 +17,7 @@
 
 <details><summary>Others</summary>
 
+- [AICUP datasets](https://www.aicup.tw/open-data)
 - [iVS-Dataset](https://pairlabs.nycu.edu.tw:52959/?p=28) ([src](https://github.com/wish44165/One-Epoch-Training-for-Object-Detection-in-Fisheye-Images))
 - [Valeo WoopScape](https://woodscape.valeo.com/woodscape/)
 - [Set1 - Fisheye Images](https://drive.google.com/uc?export=download&id=1xQ5J4huNmyK9WPoipHTnuZ7lw_J0xhvL)
