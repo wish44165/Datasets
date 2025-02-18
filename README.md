@@ -15,7 +15,7 @@
 - [Dogfight: Detecting Drones from Drones Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.pdf)
    - [Multi-target detection and tracking from a single camera in Unmanned Aerial Vehicles (UAVs)](https://ieeexplore.ieee.org/document/7759733) ([NPS dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/))
    - [Detecting Flying Objects Using a Single Moving Camera](https://ieeexplore.ieee.org/document/7466125) (FL dataset)
-
+- [Single-frame InfraRed Small Target (SIRST) Benchmark](https://github.com/YimianDai/sirst)
 
 </details>
 
@@ -26,6 +26,7 @@
 - [A Large-Scale Benchmark and Challenges for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/index.html)
 - [A dataset for infrared time-sensitive target detection and tracking for air-ground application](https://www.scidb.cn/en/detail?dataSetId=de971a1898774dc5921b68793817916e)
 - [car_bus_truck_Detection Computer Vision Project](https://universe.roboflow.com/cardetection-cpd1v/car_bus_truck_detection)
+- [VisDrone-Dataset](https://github.com/VisDrone/VisDrone-Dataset)
 
 </details>
 
