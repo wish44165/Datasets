@@ -7,8 +7,9 @@
 
 - [A Real-time and Lightweight Method for Tiny Airborne Object Detection](https://openaccess.thecvf.com/content/CVPR2023W/Anti-UAV/papers/Lyu_A_Real-Time_and_Lightweight_Method_for_Tiny_Airborne_Object_Detection_CVPRW_2023_paper.pdf)
    - [Airborne Object](https://www.aicrowd.com/challenges/airborne-object-tracking-challenge) (11TB, partial: 500GB)
-   - [NPS dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/)) (1.9GB)
+   - [NPS dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/) (1.9GB)
    - [Anti-UAV](https://anti-uav.github.io/dataset/) (34GB)
+   - [Anti-UAV (Anti-UAV300, Anti-UAV410, Anti-UAV600)](https://github.com/ZhaoJ9014/Anti-UAV)
 - [Fast-and-Robust-UAV-to-UAV-Detection-and-Tracking](https://github.com/jingliinpurdue/Fast-and-Robust-UAV-to-UAV-Detection-and-Tracking)
    - [Multi-Target Detection and Tracking from a Single Camera in Unmanned Aerial Vehicles (UAVs)](https://engineering.purdue.edu/~bouman/UAV_Dataset/) (1.9GB)
 - [Dogfight: Detecting Drones from Drones Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.pdf)
