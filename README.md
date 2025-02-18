@@ -1,6 +1,35 @@
 ## Datasets
 
 
+### UAV Datasets
+
+<details><summary>Target: UAV</summary>
+
+- [A Real-time and Lightweight Method for Tiny Airborne Object Detection](https://openaccess.thecvf.com/content/CVPR2023W/Anti-UAV/papers/Lyu_A_Real-Time_and_Lightweight_Method_for_Tiny_Airborne_Object_Detection_CVPRW_2023_paper.pdf)
+   - [Airborne Object](https://www.aicrowd.com/challenges/airborne-object-tracking-challenge) (11TB, partial: 500GB)
+   - [NPS dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/)) (1.9GB)
+   - [Anti-UAV](https://anti-uav.github.io/dataset/) (34GB)
+- [Fast-and-Robust-UAV-to-UAV-Detection-and-Tracking](https://github.com/jingliinpurdue/Fast-and-Robust-UAV-to-UAV-Detection-and-Tracking)
+   - [Multi-Target Detection and Tracking from a Single Camera in Unmanned Aerial Vehicles (UAVs)](https://engineering.purdue.edu/~bouman/UAV_Dataset/) (1.9GB)
+- [Dogfight: Detecting Drones from Drones Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.pdf)
+   - [Multi-target detection and tracking from a single camera in Unmanned Aerial Vehicles (UAVs)](https://ieeexplore.ieee.org/document/7759733) ([NPS dataset](https://engineering.purdue.edu/~bouman/UAV_Dataset/))
+   - [Detecting Flying Objects Using a Single Moving Camera](https://ieeexplore.ieee.org/document/7466125) (FL dataset)
+
+
+</details>
+
+
+<details><summary>Target on the ground</summary>
+
+- [TODbox (Tiny Object Detection Box)](https://github.com/Chasel-Tsui/mmdet-aitod) ([AI-TOD](https://github.com/jwwangchn/AI-TOD) & [AI-TOD-v2](https://drive.google.com/drive/folders/1Er14atDO1cBraBD4DSFODZV1x7NHO_PY))
+- [A Large-Scale Benchmark and Challenges for Object Detection in Aerial Images](https://captain-whu.github.io/DOTA/index.html)
+- [A dataset for infrared time-sensitive target detection and tracking for air-ground application](https://www.scidb.cn/en/detail?dataSetId=de971a1898774dc5921b68793817916e)
+- [car_bus_truck_Detection Computer Vision Project](https://universe.roboflow.com/cardetection-cpd1v/car_bus_truck_detection)
+
+</details>
+
+
+
 
 
 ### Object Detection Datasets
